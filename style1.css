@@ -501,10 +501,7 @@ label{
         max-width: 80%;
     }
 
-    .banner .content{
-        padding: 15px 15px 15px 15px;
-        margin-top: 45%;
-    }
+    
 
 }
 
@@ -514,5 +511,10 @@ label{
     }
     .frm{
         padding: -5%;
+    }
+    .banner .content{
+        padding: 15px 15px 15px 15px;
+        margin-top: 45%;
+        font-size:60%;
     }
 }
